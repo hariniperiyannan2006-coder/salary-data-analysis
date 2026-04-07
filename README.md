@@ -10,7 +10,7 @@ The analysis helps in identifying salary distribution, factors affecting salary,
 ## 📊 Output Screenshots
 
 ### Output 1
-![Job Role Distribution](job_role_distribution.jpeg)
+![Job Role Distribution](job_role_distibution.jpeg)
 
 ### Output 2
 ![Rating Distribution](rating_distribution.jpeg)
