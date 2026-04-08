@@ -9,21 +9,38 @@ The analysis helps in identifying salary distribution, factors affecting salary,
 
 ## 📊 Output Screenshots
 
-### Job Role Distribution
-<img src="job_role_distribution.jpeg" width="400"/>
+<table>
+<tr>
+<td align="center">
+<b>Job Role Distribution</b><br>
+<img src="job_role_distibution.jpeg" width="300"/>
+</td>
 
-### Rating Distribution
-<img src="rating_distribution.jpeg" width="400"/>
+<td align="center">
+<b>Rating Distribution</b><br>
+<img src="rating_distribution.jpeg" width="300"/>
+</td>
+</tr>
 
-### Salary vs Rating
-<img src="salary_vs_rating.jpeg" width="400"/>
+<tr>
+<td align="center">
+<b>Salary vs Rating</b><br>
+<img src="salary_vs_rating.jpeg" width="300"/>
+</td>
 
-### Average Salary by Job Role
-<img src="average_salary_by_job_role.jpeg" width="400"/>
+<td align="center">
+<b>Average Salary by Job Role</b><br>
+<img src="average_salary_by_job_role.jpeg" width="300"/>
+</td>
+</tr>
 
-### Top Job Roles
-<img src="top_job_roles.jpeg" width="400"/>
-
+<tr>
+<td align="center" colspan="2">
+<b>Top Job Roles</b><br>
+<img src="top_job_roles.jpeg" width="300"/>
+</td>
+</tr>
+</table>
 
 ## 🎯 Objectives
 - To analyze salary data using Python
